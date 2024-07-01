@@ -1,0 +1,72 @@
+body{background-image: url(logos/d_light_logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: larger;
+}
+
+.logo{margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+}
+
+.H1{font:bold; 
+    font-style: unset; 
+    text-align: center; 
+    color: goldenrod;
+}
+
+.H2{font-style: italic; 
+    text-align: center; 
+    color: goldenrod; 
+    font-size: small;
+}
+
+.hello{
+    list-style-type: none;
+    margin: 0; 
+    padding: 0; 
+    padding: 0; 
+    overflow: hidden;
+    background-color: rgb(60, 55, 10);  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hello li{
+    display: inline;
+    float:left;}
+
+.hello li a {
+    display: block; 
+    padding: 14px 16px;
+    color:black;
+    text-decoration: double;
+}
+
+.hello li :hover{background-color: whitesmoke;
+}
+
+.list{
+    color: goldenrod;
+    background-color: transparent;
+}
+
+
+.H3{
+    color: goldenrod; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: larger;
+}
+
+.marquee{ behavior: scroll; 
+    direction: left; 
+}
+
+.marquee img{ 
+    width: 25%; 
+    height: 30%; 
+    
+}
